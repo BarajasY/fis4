@@ -33,6 +33,7 @@ camera.rotation.y = 6.2
 
 
 const renderer = new THREE.WebGLRenderer();
+renderer.setPixelRatio(window.devicePixelRatio)
 renderer.setSize(window.innerWidth, window.innerHeight);
 
 const controls = new OrbitControls(camera, renderer.domElement);
