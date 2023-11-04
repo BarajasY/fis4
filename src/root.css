@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Poppins";
+  font-weight: 800;
+}
+
+:root {
+  --fs-1: 5px;
+  --fs-2: 10px;
+  --fs-3: 15px;
+  --fs-4: 20px;
+  --fs-5: 25px;
+  --fs-6: 30px;
+  --fs-7: 35px;
+
+
+  --color-main-1: #323d52;
+  --color-main-2: #efebec;
+  --color-main-3: #003851;
+  --color-main-1-transparent: #323d528d;
+  --color-main-2-transparent: #efebec8d;
+  --color-main-3-transparent: #0038518d;
+}
