@@ -25,7 +25,7 @@
     "solid-icons": "^1.1.0",
     "solid-js": "^1.8.5",
     "solid-start": "^0.3.9",
-    "three": "^0.158.0"
+    "three": "^0.136.0"
   },
   "engines": {
     "node": ">=18"
