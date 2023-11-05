@@ -26,6 +26,10 @@ export default function Credits() {
             <p class="one">Luis Oswaldo Gutiérrez Cuellar</p>
             <p class="two">2072149</p>
           </div>
+          <div class="name">
+            <p class="one">Efren Romeo Hiracheta Hernández</p>
+            <p class="two">1915961</p>
+          </div>
         </div>
       </div>
     </Show>
