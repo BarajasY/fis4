@@ -15,7 +15,7 @@ export default function Header() {
     <div class="header">
       <div class="element">
         <h1 class="name">Elemento: <span>{CurrentElement()}</span></h1>
-        <p class="radius">Radio Nuclear = <span>{r0 * (Math.pow(AtomicNumber(), .33))}</span></p>
+        <p class="radius">Radio Nuclear = <span>{r0 * (Math.pow(AtomicNumber(), .33))} m</span></p>
       </div>
       <div class="slider">
         <p class="title">Ajuste el número atómico</p>
